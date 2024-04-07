@@ -2,4 +2,4 @@ Template Created Using [Javascript Mastery](https://www.youtube.com/watch?v=Fkow
 
 Thank You Javascript Mastery for such a wonderful course.
 
-My Portfolio Link - ganesh-patra-resume.netlify.app
+[My Portfolio Link](ganesh-patra-resume.netlify.app)
